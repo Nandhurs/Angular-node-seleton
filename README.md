@@ -2,7 +2,7 @@
 
 # Installation
 
-- run "npm install"
+- Run "npm install".
 
-- config mongodb
+- config mongodb.
 
